@@ -1,2 +1,2 @@
 # PID_K
-Software for a PID controller that uses a thermocouple
+Contains Software and STL-Files for a PID-Controller that uses a thermocouple to sense Temperature
